@@ -1,2 +1,6 @@
 # wix-node-container
-This docker image contains WiX toolset and Node 8
+This Linux docker image contains 
+- Wine
+- .NET Framework 4.0
+- WiX toolset
+- Node 8
