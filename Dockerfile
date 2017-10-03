@@ -1,5 +1,5 @@
 FROM justmoon/wix
-MAINTAINER Syed Hassaan Ahmed
+LABEL maintainer="Syed Hassaan Ahmed"
 
 # Install Node 8
 USER root
