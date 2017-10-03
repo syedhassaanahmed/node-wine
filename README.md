@@ -1,5 +1,5 @@
 # wix-node-container
-[![Docker Pulls](https://img.shields.io/docker/pulls/syedhassaanahmed/wix-node.svg)](https://hub.docker.com/r/gotfix/gitlab/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/syedhassaanahmed/wix-node.svg)](https://hub.docker.com/r/syedhassaanahmed/wix-node/)
 
 This Linux docker image contains 
 - Wine
