@@ -1,7 +1,7 @@
 FROM justmoon/wix
 LABEL maintainer="Syed Hassaan Ahmed"
 
-# Install Node 8
+# Install Node 9
 USER root
 RUN apt-get update && \
     apt-get install -y curl && \

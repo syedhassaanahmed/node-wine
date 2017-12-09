@@ -5,4 +5,4 @@ This Linux docker image contains
 - Wine
 - .NET Framework 4.0
 - [WiX toolset](http://wixtoolset.org/)
-- Node.js v8
+- Node.js v9
