@@ -1,9 +1,9 @@
-# wix-node-container
-![Docker](https://github.com/syedhassaanahmed/wix-node-container/actions/workflows/docker-publish.yml/badge.svg)
+# node-wine
+![Docker](https://github.com/syedhassaanahmed/node-wine/actions/workflows/docker-publish.yml/badge.svg)
 
 This Linux docker image contains
 
-- [Wine](https://www.winehq.org/)
-- .NET Framework 4.0
-- [WiX toolset](http://wixtoolset.org/)
 - Node.js v18 LTS
+- [Wine](https://www.winehq.org/)
+- [Winetricks](https://github.com/Winetricks/winetricks)
+- .NET Framework 4.5
